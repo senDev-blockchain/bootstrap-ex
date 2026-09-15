@@ -21,10 +21,6 @@ import SelectorEngine from './dom/selector-engine'
 import Swipe from './util/swipe'
 import BaseComponent from './base-component'
 
-/**
- * Constants
- */
-
 const NAME = 'carousel'
 const DATA_KEY = 'bs.carousel'
 const EVENT_KEY = `.${DATA_KEY}`

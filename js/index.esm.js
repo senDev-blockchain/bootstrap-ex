@@ -16,7 +16,6 @@ import Popover from './src/popover'
 import ScrollSpy from './src/scrollspy'
 import Tab from './src/tab'
 import Toast from './src/toast'
-import Button from './src/button'
 import Tooltip from './src/tooltip'
 
 export {
